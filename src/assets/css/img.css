@@ -1,0 +1,14 @@
+.nav img {
+    width: 400px;
+    height: 200px;
+    vertical-align: top;
+  }
+ .nav span {
+    display: inline-block;
+    width: 400px;
+    text-indent: 2em;
+    margin-left: 10px;
+    line-height: 24px;
+    font-family: "Dancing Script",cursive, Comic Sans MS, Cambria, Cochin, Georgia, Times,
+        "Times New Roman", serif !important;
+  }
